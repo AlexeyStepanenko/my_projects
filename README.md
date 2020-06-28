@@ -1,17 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	
-<style type="text/css">
-		@page { margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 115% }
-		td p { margin-bottom: 0cm }
-		a:link { so-language: zxx }
-	</style>
-</head>
-<body lang="ru-RU" dir="ltr">
-<p style="margin-bottom: 0cm; line-height: 100%">Данный
+Данный
 репозиторий создан в целях ознакомления
 с некоторыми проектами, выполненными
 в рамках прохождения курса «Аналитик
@@ -19,15 +6,11 @@
 размещены в отдельных папках, содержащих
 файл README.md с кратким описанием, а также
 файл с выполненным проектом. 
-</p>
-<p style="margin-bottom: 0cm; line-height: 100%">Приятного
-просмотра :-)</p>
-<p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
-</p>
-<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+Приятного
+просмотра.
 
-</p>
+
 <table width="60%" cellpadding="4" cellspacing="0">
 	<col width="85*">
 	<col width="150*">
