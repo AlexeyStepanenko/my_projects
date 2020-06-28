@@ -68,7 +68,7 @@
 			<p><a href="https://github.com/AlexeyStepanenko/my_projects/tree/master/machine_learning_forecasting">https://github.com/AlexeyStepanenko/my_projects/tree/master/machine_learning_forecasting</a></p>
 			<p><br/>
 
-			</p>
+</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -80,7 +80,7 @@
 			<p><a href="https://github.com/AlexeyStepanenko/my_projects/tree/master/mobile_app_analysis">https://github.com/AlexeyStepanenko/my_projects/tree/master/mobile_app_analysis</a></p>
 			<p><br/>
 
-			</p>
+</p>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -93,7 +93,7 @@
 			<p><a href="https://github.com/AlexeyStepanenko/my_projects/tree/master/video_games_history_data">https://github.com/AlexeyStepanenko/my_projects/tree/master/video_games_history_data</a></p>
 			<p><br/>
 
-			</p>
+</p>
 		</td>
 	</tr>
 </table>
