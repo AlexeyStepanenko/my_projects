@@ -1,5 +1,19 @@
+<html>
 <head>
-Данный
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
+	<meta name="created" content="2020-06-28T20:49:53.726808343"/>
+	<meta name="changed" content="2020-06-28T21:30:47.024129133"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 115% }
+		td p { margin-bottom: 0cm }
+		a:link { so-language: zxx }
+	</style>
+</head>
+<body lang="ru-RU" dir="ltr">
+<p style="margin-bottom: 0cm; line-height: 100%">Данный
 репозиторий создан в целях ознакомления
 с некоторыми проектами, выполненными
 в рамках прохождения курса «Аналитик
@@ -86,3 +100,4 @@
 
 </p>
 </body>
+</html>
