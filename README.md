@@ -31,9 +31,9 @@
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-<table width="100%" cellpadding="4" cellspacing="0">
+<table width="60%" cellpadding="4" cellspacing="0">
 	<col width="85*">
-	<col width="171*">
+	<col width="150*">
 	<tr valign="top">
 		<td width="33%" style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: none; padding-top: 0.1cm; padding-bottom: 0.1cm; padding-left: 0.1cm; padding-right: 0cm">
 			<p align="center"><b>Название проекта</b></p>
